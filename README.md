@@ -56,20 +56,20 @@ Employee Management
 ![read data](https://github.com/pk3483899/Employmee-Management/assets/78607856/abc4e1b9-540e-4354-8618-af85beb1ca2b)
 
        
-     - Update Data:
-       - User modifies data.
-       - Modified data is sent to the controller, updating the database through the model.
-       
-![update](https://github.com/pk3483899/Employmee-Management/assets/78607856/afd956b6-be72-4310-99c8-97a400ed100f)
-
-![updated](https://github.com/pk3483899/Employmee-Management/assets/78607856/03401b57-0879-4518-afaf-9c558af99d4f)
-
-       
      - Delete Data:
        - User deletes data.
        - Deletion request is sent to the controller, which interacts with the model to delete data from the database.
 
 ![delete data](https://github.com/pk3483899/Employmee-Management/assets/78607856/6162f619-df2b-4dc7-9667-8efb5689d219)
+
+       
+     - Update Data:
+       - User modifies data.
+       - Modified data is sent to the controller, updating the database through the model.
+       
+![update](https://github.com/pk3483899/Employmee-Management/assets/78607856/afd956b6-be72-4310-99c8-97a400ed100f)
+![updated](https://github.com/pk3483899/Employmee-Management/assets/78607856/03401b57-0879-4518-afaf-9c558af99d4f)
+
 
 
 4. **Logout:**
