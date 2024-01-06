@@ -78,6 +78,7 @@ Employee Management
    - Controller logs the user out and redirects them to the login page.
    - If the user tries to go back, they are prompted to log in again.
   
+![Logout](https://github.com/pk3483899/Employmee-Management/assets/78607856/7f36e798-d470-446a-9513-408e5f8d8b69)
 
 
 ![DB](https://github.com/pk3483899/Employmee-Management/assets/78607856/41c5b97f-55ed-48b8-a260-b6fe17da5ed4)
