@@ -8,9 +8,7 @@ Employee Management
   
 
 
-![Login Error](https://github.com/pk3483899/Employmee-Management/assets/78607856/0a0eec2e-1f0c-4f2d-a6d5-cb1043b02a17)
 
-![Login](https://github.com/pk3483899/Employmee-Management/assets/78607856/963af4ea-b305-40ac-b9aa-f19c380be1f0)
 
 
 
@@ -20,12 +18,33 @@ Employee Management
    - Controller checks credentials with the database.
    - If matched, the user is redirected to the welcome page.
    - If not matched, an error message is displayed on the login page.
+  
+![Login Error](https://github.com/pk3483899/Employmee-Management/assets/78607856/0a0eec2e-1f0c-4f2d-a6d5-cb1043b02a17)
+
+![Login](https://github.com/pk3483899/Employmee-Management/assets/78607856/963af4ea-b305-40ac-b9aa-f19c380be1f0)
+
+
+
+
 
 3. **Welcome Page:**
    - User can insert, read, update, and delete data.
+  
+
+
+
+
+![Login Error](https://github.com/pk3483899/Employmee-Management/assets/78607856/0a0eec2e-1f0c-4f2d-a6d5-cb1043b02a17)
+
+
      - Insert Data:
        - User inputs details.
        - Data is sent to the controller, which interacts with the model to store it in the database.
+
+![Login](https://github.com/pk3483899/Employmee-Management/assets/78607856/963af4ea-b305-40ac-b9aa-f19c380be1f0)
+
+
+       
      - Read Data:
        - User clicks on a link.
        - Controller calls a model method to read data from the database.
