@@ -47,9 +47,18 @@ Employee Management
        - User clicks on a link.
        - Controller calls a model method to read data from the database.
        - Data is sent to the view layer for display.
+
+![read data](https://github.com/pk3483899/Employmee-Management/assets/78607856/abc4e1b9-540e-4354-8618-af85beb1ca2b)
+
+       
      - Update Data:
        - User modifies data.
        - Modified data is sent to the controller, updating the database through the model.
+       
+![update](https://github.com/pk3483899/Employmee-Management/assets/78607856/afd956b6-be72-4310-99c8-97a400ed100f)
+
+
+       
      - Delete Data:
        - User deletes data.
        - Deletion request is sent to the controller, which interacts with the model to delete data from the database.
