@@ -30,9 +30,7 @@ Employee Management
 3. **Welcome Page:**
    - User can insert, read, update, and delete data.
   
-
-
-
+![Welcome page](https://github.com/pk3483899/Employmee-Management/assets/78607856/3e54d4b3-0f8b-41c9-a25f-a1f5c0771dfd)
 
 
 
@@ -41,7 +39,7 @@ Employee Management
        - User inputs details.
        - Data is sent to the controller, which interacts with the model to store it in the database.
 
-
+![insert data](https://github.com/pk3483899/Employmee-Management/assets/78607856/1cc9fc9d-221d-4261-8221-4c1ca2483f63)
 
 
        
