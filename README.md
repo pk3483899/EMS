@@ -9,6 +9,9 @@ Employee Management
 
 
 
+![Index](https://github.com/pk3483899/Employmee-Management/assets/78607856/b2f51a7e-bfa4-43ab-beec-857eceb0401f)
+
+
 
 
 
@@ -41,6 +44,8 @@ Employee Management
 
 ![insert data](https://github.com/pk3483899/Employmee-Management/assets/78607856/1cc9fc9d-221d-4261-8221-4c1ca2483f63)
 
+![Saving Data](https://github.com/pk3483899/Employmee-Management/assets/78607856/faf78405-3f6a-4be2-bb89-80823aa56777)
+
 
        
      - Read Data:
@@ -57,17 +62,26 @@ Employee Management
        
 ![update](https://github.com/pk3483899/Employmee-Management/assets/78607856/afd956b6-be72-4310-99c8-97a400ed100f)
 
+![updated](https://github.com/pk3483899/Employmee-Management/assets/78607856/03401b57-0879-4518-afaf-9c558af99d4f)
 
        
      - Delete Data:
        - User deletes data.
        - Deletion request is sent to the controller, which interacts with the model to delete data from the database.
 
+![delete data](https://github.com/pk3483899/Employmee-Management/assets/78607856/6162f619-df2b-4dc7-9667-8efb5689d219)
+
+
 4. **Logout:**
    - User clicks on the logout button.
    - Logout request is sent to the controller.
    - Controller logs the user out and redirects them to the login page.
    - If the user tries to go back, they are prompted to log in again.
+  
+
+
+![DB](https://github.com/pk3483899/Employmee-Management/assets/78607856/41c5b97f-55ed-48b8-a260-b6fe17da5ed4)
+![Authentication](https://github.com/pk3483899/Employmee-Management/assets/78607856/c262ef01-6c95-4c99-af64-e0860b4bf766)
 
 
 
