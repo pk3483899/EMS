@@ -5,9 +5,15 @@ Employee Management
    - Frontend: HTML,JSP
    - Server: Tomcat
    - Architecture: MVC
+  
+
 ![Login](https://github.com/pk3483899/Employmee-Management/assets/78607856/963af4ea-b305-40ac-b9aa-f19c380be1f0)
 
 ![Login Error](https://github.com/pk3483899/Employmee-Management/assets/78607856/0a0eec2e-1f0c-4f2d-a6d5-cb1043b02a17)
+
+
+
+
 2. **Login:**
    - User enters email and password.
    - Controller checks credentials with the database.
