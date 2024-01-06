@@ -34,14 +34,14 @@ Employee Management
 
 
 
-![Login Error](https://github.com/pk3483899/Employmee-Management/assets/78607856/0a0eec2e-1f0c-4f2d-a6d5-cb1043b02a17)
+
 
 
      - Insert Data:
        - User inputs details.
        - Data is sent to the controller, which interacts with the model to store it in the database.
 
-![Login](https://github.com/pk3483899/Employmee-Management/assets/78607856/963af4ea-b305-40ac-b9aa-f19c380be1f0)
+
 
 
        
