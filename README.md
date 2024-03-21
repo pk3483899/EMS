@@ -84,6 +84,3 @@ Employee Management
 ![DB](https://github.com/pk3483899/Employmee-Management/assets/78607856/41c5b97f-55ed-48b8-a260-b6fe17da5ed4)
 ![Authentication](https://github.com/pk3483899/Employmee-Management/assets/78607856/c262ef01-6c95-4c99-af64-e0860b4bf766)
 
-
-
-Ensure secure user authentication, implement proper validation, and sanitize inputs to prevent security vulnerabilities. Additionally, consider session management for enhanced security during user interactions.
